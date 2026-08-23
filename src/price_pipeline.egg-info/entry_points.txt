@@ -1,0 +1,2 @@
+[console_scripts]
+price-pipeline = price_pipeline.cli:main
